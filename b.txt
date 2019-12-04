@@ -1,1 +1,1 @@
-This is test file of b. 
+This is first line of code for b.txt. 
